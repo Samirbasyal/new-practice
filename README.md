@@ -1,2 +1,2 @@
 # new-practice
-this is the new practice file in github
+this is the new practice file in github and git
